@@ -1,0 +1,124 @@
+#calendarioweb{
+  color: white !important;
+  text-transform: uppercase;
+  font-family: "DIN Pro Condensed";
+  box-sizing: border-box !important;
+  -moz-box-sizing: border-box !important;
+  -webkit-box-sizing: border-box !important;
+}
+
+h2{
+  font-size: 23px;
+  vertical-align: middle;
+}
+
+.fc-day-header{
+  font-size: 19px ;
+  padding: 10px 0 !important;
+  text-align: center;
+  overflow: visible !important;
+}
+
+.fc-day-number{
+  text-align: center !important;
+  color: white;
+}
+
+
+
+td{
+  text-align: center !important;
+  border: 0px !important;
+  vertical-align: middle !important;
+  font-size: 18px ;
+}
+
+th{
+  text-align: center !important;
+  border: 0px !important;
+  vertical-align: middle !important;
+}
+
+/* */
+
+.fc-basic-view .fc-body .fc-row {
+  min-height: 0px;
+}
+
+
+
+.fc-bgevent {
+background-color: #0049ac !important;
+opacity: 1;
+padding: 0 !important;
+}
+
+
+
+.fc-day-top{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.fc-row .fc-content-skeleton {
+    position: relative;
+    z-index: 4;
+    padding-bottom: 0;
+}
+
+
+.fc-bg{
+}
+.fc-today{
+background-color: rgba(0,0,0,0) !important;
+opacity: 1;
+}
+
+.fc-today .fc-day-number{
+background-color: rgba(0,0,0,0) !important;
+border: 3px solid #006cff !important;
+opacity: 1;
+}
+
+
+.fc-event-container{
+  background-color: red !important;
+  top: 0;
+  min-height: 100%;
+  min-width: auto;
+}
+.fc-bgevent-skeleton{
+}
+
+/* botones */
+
+
+
+.fc-button{
+  padding: 3px 0 !important;
+  height: auto !important;
+}
+
+.fc-button:hover .fc-icon {
+  color: #1d457a;
+}
+
+
+.fc-right .fc-prev-button, .fc-right .fc-next-button{
+    background-color: rgba(0,0,0,0);
+    background-image: none;
+    border: 0;
+    box-shadow: inset 0 0px 0 rgba(0,0,0,0), 0 0px 0px rgba(0,0,0,0);
+}
+
+.fc-left .fc-prev-button, .fc-left .fc-next-button{
+    background-color: rgba(0,0,0,0);
+    background-image: none;
+    border: 0;
+    box-shadow: inset 0 0px 0 rgba(0,0,0,0), 0 0px 0px rgba(0,0,0,0);
+}
+
+.fc-icon {
+  color: #193c6b;
+  text-shadow: 0 0px 0px rgba(0,0,0,0);
+}

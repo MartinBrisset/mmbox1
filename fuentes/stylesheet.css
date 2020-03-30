@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'DIN Pro';
+    src: url('fuentes/DINPro.woff2') format('woff2'),
+        url('fuentes/DINPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DIN Pro Cond';
+    src: url('fuentes/DINPro-CondensedMedium.woff2') format('woff2'),
+        url('fuentes/DINPro-CondensedMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DIN Pro';
+    src: url('fuentes/DINPro-Bold.woff2') format('woff2'),
+        url('fuentes/DINPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DIN Pro Cond';
+    src: url('fuentes/DINPro-CondensedBold.woff2') format('woff2'),
+        url('fuentes/DINPro-CondensedBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DIN Pro Cond';
+    src: url('fuentes/DINPro-CondensedLight.woff2') format('woff2'),
+        url('fuentes/DINPro-CondensedLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DIN Pro';
+    src: url('fuentes/DINPro-Medium.woff2') format('woff2'),
+        url('fuentes/DINPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DIN Pro Cond';
+    src: url('fuentes/DINPro-CondensedRegular.woff2') format('woff2'),
+        url('fuentes/DINPro-CondensedRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DIN Pro';
+    src: url('fuentes/DINPro-Light.woff2') format('woff2'),
+        url('fuentes/DINPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}

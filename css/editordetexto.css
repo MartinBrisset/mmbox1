@@ -1,0 +1,31 @@
+.cke_top {
+    border-bottom: 1px solid #f5f5f7 !important;
+    background: white !important;
+    padding: 6px 8px 2px;
+    white-space: normal;
+    border-radius: 5px 5px 0 0 !important;
+}
+
+.cke_chrome {
+    display: block;
+    border: 1px solid #f5f5f7 !important;
+    padding: 0;
+    border-radius: 5px !important;
+}
+
+.cke_top, .cke_contents, .cke_bottom {
+    display: block;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.cke_inner {
+    display: block;
+    background: #fff;
+    padding: 0;
+    -webkit-touch-callout: none;
+    border-radius: 5px;
+    webkit-box-shadow: 0px 4px 5px 0px rgba(0,0,0,0.04);
+  -moz-box-shadow: 0px 4px 5px 0px rgba(0,0,0,0.04);
+  box-shadow: 0px 4px 5px 0px rgba(0,0,0,0.04);
+}
